@@ -1,5 +1,9 @@
 /**
  * TODO (16): Add an assignment comment block below
+ * Name: Xavier Burgess
+ * Teacher: Mr. Hardman
+ * Course: Software Development
+ * Date Last Modified: November 26th, 2018
  */
 
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
